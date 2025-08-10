@@ -275,11 +275,12 @@ createButton("ThanHub (KEYLESS)", "https://raw.githubusercontent.com/thantzy/tha
 createButton("SpeedhubX (KEY)", "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua")
 createButton("Project Reverse (KEYLESS)", "https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua")
 createButton("Auto Trade Freeze", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/Trade-Freeze.lua")
-createButton("Dark Spawner", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/darkspawner")
+createButton("Dark Spawner", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/PetSpawnerLua")
 createButton("Pet Mutation Finder", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/petmutation")
 createButton("Egg Randomizer", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/text.txt")
 createButton("Pet Leveler", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/Egg-Randomizer.lua")
-createButton("Pet Kg Changer", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/PetKgChanger")
+createButton("Pet Kg Changer",
+"https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/PetKgChanger")
 
 -- Footer Label
 local footer = Instance.new("TextLabel", main)
