@@ -281,6 +281,7 @@ createButton("Egg Randomizer", "https://raw.githubusercontent.com/GrowAGardenVis
 createButton("Pet Leveler", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/Egg-Randomizer.lua")
 createButton("Pet Kg Changer",
 "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/PetKgChanger")
+createButton("Pet Cooldown Editor", "https://raw.githubusercontent.com/GrowAGardenVisual1/EggPredictor/refs/heads/main/Pet%20Cooldown%20Changer")
 
 -- Footer Label
 local footer = Instance.new("TextLabel", main)
